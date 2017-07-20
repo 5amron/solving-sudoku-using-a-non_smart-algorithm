@@ -1,4 +1,4 @@
 # solving-sudoku-using-a-non_smart-algorithm
 
 samanSadghyan
-samronsadeghyan@gmail.com
+s.sadeghy325@gmail.com
